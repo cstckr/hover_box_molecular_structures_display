@@ -1,0 +1,9 @@
+c1ccc2c(c1)CCCN2
+CNc1ccccc1
+c1ccc2c(c1)CCN2
+c1ccc2[nH]ccc2c1
+c1cnc2c(c1)CCCC2
+c1ccc(N2CCCCC2)cc1
+C1CCN2CCCCC2C1
+C2CCC1NCCCC1C2
+c1cc2c3c(c1)CCCN3CCC2
